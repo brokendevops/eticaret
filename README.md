@@ -210,7 +210,7 @@ Bu proje MIT lisansı altında lisanslanmıştır.
 
 ## 👨‍💻 Geliştirici
 
-**Emir** - [GitHub](https://github.com/kullanici-adiniz)
+**Emir** - [GitHub](https://github.com/brokendevops)
 
 ## 🙏 Teşekkürler
 
